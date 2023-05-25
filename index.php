@@ -3,11 +3,10 @@
 
 <head>
     <title>Background Image with Centered Text</title>
-    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     
     <style>
-        /* Google Fonts - Poppins */
-        @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+       
 
         .cont1 {
             background-image: url('./assest/Interiors Service Banner.jpg');
